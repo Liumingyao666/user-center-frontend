@@ -1,5 +1,5 @@
 /**
- * request 网络请求工具
+ * request 网络请求工具1
  * 更详细的 api 文档: https://github.com/umijs/umi-request
  */
 import {extend} from 'umi-request';
